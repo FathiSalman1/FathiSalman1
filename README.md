@@ -1,4 +1,4 @@
-<h1 align="center">👋 مرحباً بك! أنا Fathi Salman</h1>
+<h1 align="center">👋 Hello! I'm Fathi Salman</h1>
 <h3 align="center">System Administrator | Network Engineer | Academic Manager</h3>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 <div align="left">
 
-## 🚀 عني (About Me)
+## 🚀 About Me
 
 </div>
 
@@ -26,97 +26,97 @@
 
 <div align="left">
   
-  أنا **مهندس شبكات ومسؤول أنظمة معتمد** بخبرة تزيد عن 5 سنوات، بالإضافة إلى سجل حافل في **الإدارة والقيادة الأكاديمية**. أجمع بين الخبرة التقنية العميقة في **Windows Server** و **RHEL** والمهارات الإدارية لتطوير البرامج التدريبية.
+  I am a **Certified System Administrator and Network Engineer** with over 5 years of experience, in addition to a proven track record in **Academic Management and Leadership**. I combine deep technical expertise in **Windows Server** and **RHEL** with managerial skills to develop training programs.
   
   
-  - 🔭 **أعمل حاليًا على:** مهام **إدارة الأنظمة**، مع التركيز على **Windows Server** و **RHEL**، وتحسين البنية التحتية للشبكات باستخدام **Cisco** و **MikroTik**.
-  - 🌱 **أتعلم حاليًا:** **تطوير الويب الكامل (Full Stack Development )** والمواضيع المتقدمة في **DevOps**.
-  - 🤝 **أتطلع للتعاون في:** مشاريع متعلقة بـ **أمن الشبكات**، ممارسات **DevOps**، وهندسة **الأنظمة المتقدمة**.
-  - 💡 **حقيقة ممتعة:** لدي خلفية تجمع بين الإدارة التقنية العميقة والقيادة الأكاديمية الاستراتيجية.
+  - 🔭 **Currently working on:** **System Administration** tasks, focusing on **Windows Server** and **RHEL** environments, and optimizing network infrastructure using **Cisco** and **MikroTik**.
+  - 🌱 **Currently learning:** **Full Stack Development** and advanced topics in **DevOps**.
+  - 🤝 **Looking to collaborate on:** Projects related to **Network Security**, **DevOps** practices, and advanced **System Architecture**.
+  - 💡 **Fun fact:** I have a background that combines both deep technical administration and strategic academic leadership.
 
 </div>
 
 ---
 
-## 🛠️ التقنيات التي أستخدمها (Tech Stack)
+## 🛠️ Tech Stack
 
 <!-- Tech Stack - Languages -->
-### لغات البرمجة (Programming Languages)
+### Programming Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="C++ logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="C logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" height="40" alt="Dart logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" alt="PHP logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript logo" />
 </div>
 
 <!-- Tech Stack - Web/Frameworks -->
-### الويب والأطر (Web & Frameworks )
+### Web & Frameworks
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-plain.svg" height="40" alt="React logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-plain.svg" height="40" alt="Flask logo" />
 </div>
 
 <!-- Tech Stack - Cloud/DevOps/Networking -->
-### السحابة والشبكات (Cloud & Networking )
+### Cloud & Networking
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain-wordmark.svg" height="40" alt="Azure logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" height="40" alt="Google Cloud logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="Docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height="40" alt="Jenkins logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain.svg" height="40" alt="Ansible logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" height="40" alt="Linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-plain.svg" height="40" alt="Windows logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" height="40" alt="VMware logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-plain.svg" height="40" alt="VMware logo" />
 </div>
 
 <!-- Tech Stack - Databases & Tools -->
-### قواعد البيانات والأدوات (Databases & Tools )
+### Databases & Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="40" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" height="40" alt="SQLite logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" height="40" alt="Redis logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-plain.svg" height="40" alt="GitHub logo" />
 </div>
 
 ---
 
-## 📈 إحصائيات GitHub (GitHub Stats )
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -128,14 +128,14 @@
 
 ---
 
-## 🏆 جوائز GitHub (GitHub Trophies )
+## 🏆 GitHub Trophies
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=FathiSalman1&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <!-- Random Dev Quote -->
-### 💬 اقتباس عشوائي:
+### 💬 Random Quote:
 
 <p align="center">
     <img src="https://readme-quotes.vercel.app/api?theme=radical" alt="Random Dev Quote" />
