@@ -198,10 +198,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=FathiSalman1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FathiSalman1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FathiSalman1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=FathiSalman1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="FathiSalman1's GitHub Stats" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=FathiSalman1&theme=radical&hide_border=true" alt="GitHub Streak" />
